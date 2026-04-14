@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<clients>
+    <client id="2">
+        <name>Olena Shevchenko</name>
+        <email>olena@example.com</email>
+        <age>25</age>
+        <active>false</active>
+    </client>
+    <client id="1">
+        <name>Ivan Petrenko</name>
+        <email>ivan@example.com</email>
+        <age>30</age>
+        <active>false</active>
+    </client>
+</clients>
